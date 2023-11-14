@@ -120,4 +120,4 @@ Please enter transfer ID to approve/reject (0 to cancel): "
 Please choose an option:
 ```
 
-## **To review code for project, please contact Jason Snoddy ** 
+## **To review code for project, please contact Jason Snoddy: https://www.linkedin.com/in/jsno/ ** 

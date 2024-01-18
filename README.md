@@ -39,7 +39,7 @@ This project was a class project to mimic the back-end infrastructure of a payme
    4. If the transfer is approved, the requestee's account balance is decreased by the amount of the request.
    5. If the transfer is rejected, no account balance changes.
 
-##Documentation
+## Documentation
 
 The files of this project are design documents used in the early stages of the development of the project. They can be downloaded and opened in;
 
